@@ -1,0 +1,12 @@
+{
+    "name": "vagrant/html",
+    "authors": [
+        {
+            "name": "anthony39100",
+            "email": "anthonybreviglieri.ab@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^3.0"
+    }
+}
