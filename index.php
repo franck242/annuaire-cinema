@@ -1,6 +1,6 @@
 <?php
 
-<?php
+
 $url=explode("/",$_SERVER['REQUEST_URI']);
 switch ($url[1]) {
     case  "film":
@@ -25,4 +25,3 @@ switch ($url[1]) {
 
 
 
-?>
